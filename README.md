@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/augophiliathe1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="augophiliathe1n" height="30" width="40" /></a>
-<a href="https://instagram.com/sum1d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sum1d3v" height="30" width="40" /></a>
+<a href="https://instagram.com/sum1d3v____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sum1d3v____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvshrivastava20&show_icons=true&locale=en&layout=compact" alt="atharvshrivastava20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvshrivastava20&show_icons=true&locale=en" alt="atharvshrivastava20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvshrivastava20&" alt="atharvshrivastava20" /></p>
